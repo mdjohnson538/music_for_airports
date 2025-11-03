@@ -2,6 +2,10 @@
 
 This repository contains a personal project analyzing **Brian Eno’s _Music for Airports_** through programmatic audio feature extraction and interactive data visualization. The goal is to study structural and timbral patterns using modern audio-signal analysis.
 
+Current live dashboard available here:
+
+https://lnkd.in/gGjBU4U2
+
 > **Note:** No audio files are included. Only extracted, non-copyrighted feature data generated locally.
 
 ---
