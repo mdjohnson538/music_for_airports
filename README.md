@@ -54,5 +54,4 @@ https://lnkd.in/gGjBU4U2
 - RStudio or Quarto CLI installed
 - Audio files stored locally (not included in repo)
 
-### Example Directory Structure
 
